@@ -1,0 +1,9 @@
+{
+  "name": "employee-ledger",
+  "version": "1.0.0",
+  "description": "Employee, attendance, and expense manager - static app",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve . -l 8000"
+  }
+}
